@@ -23,7 +23,8 @@ Harakiri, haraloader, my discord bot, just to name a few. :P<br/><br/>
   
    *Discord* > vaxry#0110 <br/>
    *Github* > well <br/>
-   *Mail* > vaxerskiofficial@gmail.com <br/> <br/>
+   *Mail* > vaxerskiofficial@gmail.com <br/>
+   *Site* > https://vaxerski.xyz <br/><br/>
   
    *All graphics on this profile are made by me.*
 </details>
