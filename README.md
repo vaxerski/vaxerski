@@ -4,7 +4,7 @@
 I code, do graphics and play some games. That's pretty much it.<br/><br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
-**Hypr** [ uf ] is an X11 tiling window manager with unique features and a clean and expandable codebase.
+**Hypr** [ uf ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
 **Mosaic** [ f? ] is still one of my favorites, even if its code quality is questionable. (I was young, forgive me :P)<br/>
 **ZoomWebcamFix** [ f ] was a fix that helped thousands of people whose webcams stopped working because of Zoom's poor code.<br/>
 **Civ4RPC** [ f ] is a simple Discord RPC info collector for CIV4:BtS<br/>
