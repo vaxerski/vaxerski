@@ -14,7 +14,6 @@ I code, do graphics and play some games. That's pretty much it.<br/><br/>
 Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
 
 ![Divider](https://vaxerski.xyz/github/stats1.gif)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaxerski&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaxerski&show_icons=true&theme=synthwave)
 ![Divider](https://vaxerski.xyz/github/divider.png)
 
