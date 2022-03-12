@@ -1,8 +1,7 @@
 ![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
-I code, do graphics and play some games. That's pretty much it.<br/>
-I support: English, 日本語, polski. *(other languages are under development)*<br/><br/>
+I code, do graphics and play some games. That's pretty much it.<br/><br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
 **Hypr** [ uf ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
