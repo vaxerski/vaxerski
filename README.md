@@ -10,9 +10,9 @@ I code, do graphics and play some games. That's pretty much it.<br/><br/>
 **Mosaic** [ f? ] is still one of my favorites, even if its code quality is questionable. (I was young, forgive me :P)<br/>
 **ZoomWebcamFix** [ f ] was a fix that helped thousands of people whose webcams stopped working because of Zoom's poor code.<br/>
 **Civ4RPC** [ f ] is a simple Discord RPC info collector for CIV4:BtS<br/>
-*Just to name a few...*<br/><br/>
+*Just to name a few...*<br/>
 
-*f - finished, uf - unfinished, m - mature, a - alpha*
+*f - finished, uf - unfinished, m - mature, a - alpha*<br/><br/>
 
 ![Divider](https://vaxerski.xyz/github/repos2.gif)
 Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
