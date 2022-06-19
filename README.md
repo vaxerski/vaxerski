@@ -26,8 +26,8 @@ Well, I don't have to tell you all about them, but what I can tell you is that I
   
    *Discord* > vaxry#0110 <br/>
    *Github* > well <br/>
-   *Mail* > vaxerskiofficial@gmail.com <br/>
-   *Site* > https://vaxerski.xyz <br/><br/>
+   *Mail* > vaxry [at] vaxry.net <br/>
+   *Site* > https://vaxry.net <br/><br/>
   
    *All graphics on this profile are made by me.*
 </details>
