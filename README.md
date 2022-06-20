@@ -1,7 +1,8 @@
 ![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
-I code, do graphics and play some games. That's pretty much it.<br/>
+I code in C++ since the age of 9.<br/>
+As a hobby, I do graphics, listen to music and play some games. That's pretty much it.<br/>
 As you probably may have noticed, I really like C++.<br/><br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
