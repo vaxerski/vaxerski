@@ -8,8 +8,7 @@ As a hobby, I do graphics, listen to music and play some games. That's pretty mu
 *Support me on ko-fi if you like what I am doing and have some spare pennies :D*
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5DGK89)
-
-<br/><br/>
+<br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
 **Hypr** [ m ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
