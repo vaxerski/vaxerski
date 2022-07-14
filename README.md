@@ -25,7 +25,10 @@ As a hobby, I do graphics, listen to music and play some games. That's pretty mu
 Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
 
 ![Divider](https://vaxerski.xyz/github/stats1.gif)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaxerski&show_icons=true&theme=synthwave)
+![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![Divider](https://vaxerski.xyz/github/divider.png)
 
 <details>
