@@ -11,9 +11,10 @@ As a hobby, I do graphics, listen to music and play some games. That's pretty mu
 <br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
-**Hypr** [ m ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
 **Hyprland** [ s ] is a dynamic tiling Wayland compositor using wlroots and aiming to provide a nice experience for those seeking more.<br/>
+**Hypr** [ m ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
 **Harakiri** [ f? ] is a Minecraft Utility Mod for 1.12.2, aimed at anarchy servers. It has the best visuals, ever.<br/>
+**Holy6800** [ f ] is a simple but working HolyC compiler for the Motorola 6800.
 **Mosaic** [ f? ] is still one of my favorites, even if its code quality is questionable. (I was young, forgive me :P)<br/>
 **ZoomWebcamFix** [ f ] was a fix that helped thousands of people whose webcams stopped working because of Zoom's poor code.<br/>
 **Civ4RPC** [ f ] is a simple Discord RPC info collector for CIV4:BtS<br/>
