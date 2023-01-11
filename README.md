@@ -36,6 +36,7 @@ Well, I don't have to tell you all about them, but what I can tell you is that I
   <summary><i>le footer</i></summary>
   
    *Discord* > vaxry#0110 <br/>
+   *Matrix* > @vaxry:matrix.vaxry.net<br/>
    *Github* > well <br/>
    *Mail* > vaxry [at] vaxry.net <br/>
    *Site* > https://vaxry.net <br/><br/>
