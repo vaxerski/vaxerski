@@ -5,6 +5,8 @@ Owner, creator and Lead Developer of the hyprwm organization.<br/>
 I have been coding in C++ since the age of 9.<br/>
 As a hobby, I do graphics, listen to music and play some games. That's pretty much it.<br/>
 <br/>
+If you wanna hire me, my timezone is UTC. Shoot me an email.
+<br/>
 *Support me on ko-fi if you like what I am doing and have some spare pennies :D*
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5DGK89)
@@ -13,9 +15,9 @@ As a hobby, I do graphics, listen to music and play some games. That's pretty mu
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
 **Hyprland** [ s ] is a dynamic tiling Wayland compositor using wlroots and aiming to provide a nice experience for those seeking more.<br/>
 **Hypr** [ m ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
-**Harakiri** [ f? ] is a Minecraft Utility Mod for 1.12.2, aimed at anarchy servers. It has the best visuals, ever.<br/>
+**Harakiri** [ f ] is a Minecraft Utility Mod for 1.12.2, aimed at anarchy servers. It has the best visuals, ever.<br/>
 **Holy6800** [ f ] is a simple but working HolyC compiler for the Motorola 6800.<br/>
-**Mosaic** [ f? ] is still one of my favorites, even if its code quality is questionable. (I was young, forgive me :P)<br/>
+**Mosaic** [ f ] is a utility to make mosaics out of images with a few customization options, written in SFML.<br/>
 **ZoomWebcamFix** [ f ] was a fix that helped thousands of people whose webcams stopped working because of Zoom's poor code.<br/>
 **Civ4RPC** [ f ] is a simple Discord RPC info collector for CIV4:BtS<br/>
 *Just to name a few...*<br/>
