@@ -11,7 +11,7 @@ As a hobby, I do graphics, listen to music and play some games. That's pretty mu
 <br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
-**Hyprland** [ s ] is a dynamic tiling Wayland compositor using wlroots and aiming to provide a nice experience for those seeking more.<br/>
+**Hyprland** [ s ] is a dynamic tiling Wayland compositor built from the ground up and aiming to provide a nice experience for those seeking more.<br/>
 **Hypr** [ m ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
 **Harakiri** [ f ] is a Minecraft Utility Mod for 1.12.2, aimed at anarchy servers. It has the best visuals, ever.<br/>
 **Holy6800** [ f ] is a simple but working HolyC compiler for the Motorola 6800.<br/>
