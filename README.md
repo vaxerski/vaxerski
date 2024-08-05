@@ -2,7 +2,6 @@
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
 Owner, creator and Lead Developer of the hyprwm organization.<br/>
-I have been coding in C++ since the age of 9.<br/>
 As a hobby, I do graphics, listen to music and play some games. That's pretty much it.<br/>
 <br/>
 *Support me on ko-fi if you like what I am doing and have some spare pennies :D*
