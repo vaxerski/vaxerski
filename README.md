@@ -1,35 +1,21 @@
-![Welcome](https://vaxerski.xyz/github/TopGif.gif)
+Hi there, I make Hyprland and stuff :)
 
-![Divider](https://vaxerski.xyz/github/aboutme2.gif)
-Owner, creator and Lead Developer of the hyprwm organization.<br/>
-As a hobby, I do graphics, listen to music and play some games. That's pretty much it.<br/>
-<br/>
-*Support me on ko-fi if you like what I am doing and have some spare pennies :D*
+### Past funsies
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5DGK89)
-<br/>
+Some of the things I did for fun in the past:
 
-![Divider](https://vaxerski.xyz/github/repos1.gif)
-**Hyprland** [ s ] is a dynamic tiling Wayland compositor built from the ground up and aiming to provide a nice experience for those seeking more.<br/>
-**Hypr** [ m ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
-**Harakiri** [ f ] is a Minecraft Utility Mod for 1.12.2, aimed at anarchy servers. It has the best visuals, ever.<br/>
-**Holy6800** [ f ] is a simple but working HolyC compiler for the Motorola 6800.<br/>
-**Mosaic** [ f ] is a utility to make mosaics out of images with a few customization options, written in SFML.<br/>
-**ZoomWebcamFix** [ f ] was a fix that helped thousands of people whose webcams stopped working because of Zoom's poor code.<br/>
-**Civ4RPC** [ f ] is a simple Discord RPC info collector for CIV4:BtS<br/>
-*Just to name a few...*<br/>
+- Hypr - An X11 Window Manager for myself, precursor to Hyprland
+- Holy6800 - A basic HolyC compiler for the motorola 6800
+- Checkpoint - A PoW gate for websites
+- Vermilion - A music player for Tidal and MPD.
 
-*f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
+### Other
 
-![Divider](https://vaxerski.xyz/github/repos2.gif)
-Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
+If you wanna support what I do, consider donating on Ko-fi, or subscribing to Hyprperks. For corporate folks, Hyprland accepts
+sponsorships and is very grateful for each and every one!
 
-![Divider](https://vaxerski.xyz/github/stats1.gif)
-![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![Divider](https://vaxerski.xyz/github/divider.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5DGK89) <br/>
+[Hyprperks](https://account.hypr.land), [Sponsors](https://account.hypr.land/sponsors)
 
 <details>
   <summary><i>le footer</i></summary>
@@ -38,7 +24,6 @@ Well, I don't have to tell you all about them, but what I can tell you is that I
    *Matrix* > @vaxry:matrix.vaxry.net<br/>
    *Github* > well <br/>
    *Mail* > vaxry [at] vaxry.net <br/>
+   *Twitter* > @vaxryy <br/>
    *Site* > https://vaxry.net <br/><br/>
-  
-   *All graphics on this profile are made by me.*
 </details>
