@@ -15,7 +15,7 @@ If you wanna support what I do, consider donating on Ko-fi, or subscribing to Hy
 sponsorships and is very grateful for each and every one!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5DGK89) <br/>
-[Hyprperks](https://account.hypr.land), [Sponsors](https://account.hypr.land/sponsors)
+[Hyprland Sponsors](https://account.hypr.land/sponsors)
 
 <details>
   <summary><i>le footer</i></summary>
