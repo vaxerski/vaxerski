@@ -11,8 +11,7 @@ Some of the things I did for fun in the past:
 
 ### Other
 
-If you wanna support what I do, consider donating on Ko-fi, or subscribing to Hyprperks. For corporate folks, Hyprland accepts
-sponsorships and is very grateful for each and every one!
+If you wanna support what I do, consider donating on Ko-fi!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5DGK89) <br/>
 [Hyprland Sponsors](https://account.hypr.land/sponsors)
